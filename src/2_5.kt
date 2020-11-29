@@ -20,6 +20,18 @@ Publication element – this identifies the particular edition and format of a s
 Check digit – this is always the final single digit that mathematically validates the rest of the number.
   It is calculated using a Modulus 10 system with alternate weights of 1 and 3.
 
+from :
+https://www.isbn-international.org/content/what-isbn#:~:text=An%20ISBN%20is%20an%20International,digit%20to%20validate%20the%20number.
+
+
+
+two isbn to test my program
+
+correct
+9781861978769
+
+not correct
+9781861978767
 */
 
 
